@@ -1,6 +1,6 @@
-# Cart-Pendulum Simulation
+# Inverted Pendulum on a Cart Simulation
 
-![Project Logo](thumbnail.png)
+![Project Logo](thumbnail.png) 
 
 This project simulates a cart-pendulum system in MATLAB. It includes the math models, an animation tool, and three different controllers to balance the pendulum: PID, LQR, and Pole Placement.
 
